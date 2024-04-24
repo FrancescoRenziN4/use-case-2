@@ -1,1 +1,1 @@
-# use-case-2
+# Use Case 2 - Wildfire Detection
